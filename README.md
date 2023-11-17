@@ -1,6 +1,6 @@
 # About Me:
 I'm a programming enthusiast.
-I'm currently studying an Automation Testing course at Solvd, a Fullstack course at Digital House, and I'm also learning English on my own.
+I'm currently studying an Automation Testing bootcamp at [SOLVD](https://www.solvd.com/), a Fullstack course at [Digital House](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer), and I'm also learning English on my own.
 
 
 
