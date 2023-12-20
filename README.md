@@ -1,7 +1,7 @@
 # Hey there! 👋
 I'm a passionate programming enthusiast.
 
-- 👨‍💻 Thanks to my proficiency in Java, I've earned a place in a test-automation bootcamp at [SOLVD](https://www.solvd.com/).
+- 👨‍💻 Thanks to my knowledge in Java, I've earned a place in a test-automation bootcamp at [SOLVD](https://www.solvd.com/).
 - 🌟 I'm learning full-stack development at [Digital House](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer).
 - 📘 Additionally, I'm self-learning English.
 
